@@ -1,6 +1,6 @@
 ![test](https://i.imgur.com/ISMhfxa.gif)
 
-🎓 Actuellement en première année dans l'école d'ingénieur [**Polytech Paris-Sud**](https://www.polytech.universite-paris-saclay.fr/ecole/presentation-ecole) (en spécialité informatique 💻).
+🎓 Actuellement en deuxième année dans une classe préparatoire [**Blaise-Pascal**](https://lyc-blaise-pascal-clermont.ent.auvergnerhonealpes.fr/formations/classes-preparatoires/).
 
 🪐 Passionné de mathématiques,et de physique..
 
@@ -12,7 +12,7 @@
 &nbsp; [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=angeluriot&hide=issues&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noevernier&hide=issues&show_icons=true)
 <br><br>
 
 ## 📚 Les langages que je connais :
@@ -25,7 +25,7 @@
 &nbsp; &nbsp; ![Python](https://img.shields.io/badge/-Python-E426D6?style=for-the-badge&logo=Python&logoColor=white)
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeluriot)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noevernier)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 ## 📂 Mes projets :
