@@ -1,4 +1,4 @@
-![test](https://imgur.com/a/41yyFDd)
+![test](https://i.imgur.com/E7UiivX.png)
 
 🎓 Actuellement en deuxième année dans une classe préparatoire [**Blaise-Pascal**](https://lyc-blaise-pascal-clermont.ent.auvergnerhonealpes.fr/formations/classes-preparatoires/).
 
