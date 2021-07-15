@@ -25,7 +25,7 @@
 &nbsp; &nbsp; ![Python](https://img.shields.io/badge/-Python-E426D6?style=for-the-badge&logo=Python&logoColor=white)
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noevernier&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noevernier)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 ## 📂 Mes projets :
