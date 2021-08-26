@@ -1,5 +1,4 @@
-![GithubBanner](https://user-images.githubusercontent.com/85460872/130819197-5bfd30ea-9017-47b2-9861-565ecd84a5e5.png)
-
+![GithubBanner](https://user-images.githubusercontent.com/85460872/131000238-763dde92-27fc-4efb-a3b0-66fb806d37e3.png)
 
 🎓 Actuellement en deuxième année dans une classe préparatoire [**Blaise-Pascal**](https://lyc-blaise-pascal-clermont.ent.auvergnerhonealpes.fr/formations/classes-preparatoires/).
 
