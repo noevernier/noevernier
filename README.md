@@ -1,5 +1,4 @@
 ![GithubBanner](![back](https://user-images.githubusercontent.com/85460872/194729512-d2ad9e91-3ddb-4f99-a7ad-82235b990e78.png)
-)
 
 🎓 Currently in first year of master of science [**Télécom paris**](https://www.telecom-paris.fr).
 
