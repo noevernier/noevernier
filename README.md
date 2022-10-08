@@ -1,8 +1,8 @@
 ![GithubBanner](https://user-images.githubusercontent.com/85460872/131000531-0071cfe2-77fa-40da-8cd6-014fa3769835.png)
 
-🎓 Actuellement en premère année d'école d'ingénieur à [**Télécom paris**](https://www.telecom-paris.fr).
+🎓 Currently in first year of master of science [**Télécom paris**](https://www.telecom-paris.fr).
 
-## 📭 Me contacter :
+## 📭 Contact :
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vernier.noe@gmail.com)
 &nbsp; [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
@@ -11,7 +11,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noevernier&hide=issues&show_icons=true&theme=dark)
 <br><br>
 
-## 📚 Les langages que je connais :
+## 📚 Skills :
 
 ![C++](https://img.shields.io/badge/-C++-2C41CB?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E15622?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -23,4 +23,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noevernier)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
-## 📂 Mes projets :
+## 📂 Projects :
