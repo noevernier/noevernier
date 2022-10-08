@@ -1,10 +1,6 @@
 ![GithubBanner](https://user-images.githubusercontent.com/85460872/131000531-0071cfe2-77fa-40da-8cd6-014fa3769835.png)
 
-🎓 Actuellement en deuxième année dans une classe préparatoire [**Blaise-Pascal**](https://lyc-blaise-pascal-clermont.ent.auvergnerhonealpes.fr/formations/classes-preparatoires/).
-
-🪐 Passionné de mathématiques,et d'informatique..
-
-💻 Je suis également passionné par la programmation, un grand nombre de mes dépôts sont des projets personnels.
+🎓 Actuellement en premère année d'école d'ingénieur à [**Télécom paris**](https://www.telecom-paris.fr).
 
 ## 📭 Me contacter :
 
