@@ -4,9 +4,24 @@
 
 ## 📭 Contact :
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vernier.noe@gmail.com)
-&nbsp; [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noe-vernier)
 <br>
+<p align="center">
+	<a href="https://www.linkedin.com/in/noe-vernier/">
+		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://twitter.com/NoeVernier">
+		<img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="mailto:vernier.noe@gmail.com">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://noevernier.github.io">
+		<img src="https://img.shields.io/badge/-noevernier.github.io-000000?style=for-the-badge&logo=react&logoColor=white">
+	</a>
+</p>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noevernier&hide=issues&show_icons=true&theme=dark)
 <br><br>
 
