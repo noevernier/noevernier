@@ -7,8 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vernier.noe@gmail.com)
 &nbsp; [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noe-vernier)
 <br>
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noevernier&theme=blue-green)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noevernier&hide=issues&show_icons=true&theme=dark)
 <br><br>
 
 ## 📚 Skills :
@@ -23,7 +22,7 @@
 ![OCAML](https://img.shields.io/badge/-OCaml-1B7FDE?style=for-the-badge&logo=OCAML&logoColor=white)
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noevernier)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noevernier&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 ## 📂 Projects :
