@@ -2,7 +2,7 @@
 ---
 <h1 align="center">Hi 👋, I'm Noé.</h1>
 
-- 🎓 Computer Science student at [**Télécom paris**](https://www.telecom-paris.fr) and currently enrolled in the MVA Master’s program at [**ENS Paris-Saclay**](https://www.ens-paris-saclay.fr).
+- 🎓 Computer Science and Applied Mathematics student at [**Télécom paris**](https://www.telecom-paris.fr) and currently enrolled in the MVA Master’s program at [**ENS Paris-Saclay**](https://www.ens-paris-saclay.fr).
 - 🌱 Specializing in the mathematical foundations and advanced techniques of machine learning, computer vision, and data analysis.
 - 📚 Currently exploring innovative methods in statistical modeling, deep learning, and quantitative finance.
 - 📫 How to reach me **noe.vernier@telecom-paris.fr**
